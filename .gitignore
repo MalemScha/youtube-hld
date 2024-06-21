@@ -1,0 +1,10 @@
+client/node_modules
+client/.env
+transcoder_service/node_modules
+transcoder_service/.env
+transcoder_service/ca.pem
+upload_service/node_modules
+upload_service/.env
+upload_service/ca.pem
+watch_service/.env
+watch_service/node_modules
